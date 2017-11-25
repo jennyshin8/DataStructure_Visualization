@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Stack_JShin:jar">
+    <output-path>$PROJECT_DIR$/Stack_JShin_jar</output-path>
+    <root id="archive" name="DataStructure_Visualization.jar">
+      <element id="module-output" name="DataStructures" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
